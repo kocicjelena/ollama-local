@@ -1,7 +1,9 @@
 
-## Getting Started
+## Ollama REST API local
+[Screencast from 2026-05-10 15-31-30.webm](https://github.com/user-attachments/assets/14fbcee6-6289-4714-a7b5-fa90f77ecfb4)
 
-Ollama REST API local
+
+
 
 First, run the development server:
 
