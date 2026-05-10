@@ -23,6 +23,7 @@ export default function Home() {
   <OptionModel />
      {/* <TestingOllamaRestAPI2 /> */}
      </div>
+     <p>OLLAMA_API_URL has to be configured</p>
         </>
     // <div className={styles.page}>
     //   <main className={styles.main}>
